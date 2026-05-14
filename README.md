@@ -1,2 +1,2 @@
-# releases
+# Releases
 Versiones de KeyboardIA
