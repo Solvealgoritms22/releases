@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/Solvealgoritms22/releases/releases/download/v1.0.7/KeyboardIA_1.0.7_x64-setup.exe",
-  "notes": "Se actualizó la versión en todos los archivos de metadatos del monorepo (main.py, pyproject.toml, Cargo.toml, tauri.conf.json y dependencias de NPM)."
+  "version": "1.0.8",
+  "url": "https://github.com/Solvealgoritms22/releases/releases/download/v1.0.8/KeyboardIA_1.0.8_x64-setup.exe",
+  "notes": "Correcciones importantes de sintaxys y higlight en los mensajes."
 }
